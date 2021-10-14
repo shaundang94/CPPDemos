@@ -16,11 +16,15 @@ int main() {
 
 
 void test_const_reference_demo() {
-    int i = 512;
-    const int ci = 1024;
-    const int &rl = i;
-    std::cout << "-dxf-testConstReference: i=" << i << "\n";
-    std::cout << "-dxf-testConstReference: ci=" << ci << "\n";
-    std::cout << "-dxf-testConstReference: rl=" << rl << "\n";
-    std::cout << std::endl;
+    double dval = 996.2;
+    const int ci_d = dval; // 常量变量 + 类型不匹配 => 创建中间变量
+    const int &cir_d = dval;
+    dval = 8;
+    std::cout << "dval=" << dval << "; ci_d=" << ci_d << "; cir_d=" << cir_d << std::endl;
+
+    int ival = 996;
+    const int ci_i = ival;
+    const int &cir_i = ival;
+    ival = 8;
+    std::cout << "ival=" << ival << "; ci_i=" << ci_i << "; cir_i=" << cir_i << std::endl;
 }
