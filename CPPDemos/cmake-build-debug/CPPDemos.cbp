@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp">
+			<Option target="CPPDemos"/>
+		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.h">
+			<Option target="CPPDemos"/>
+		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp">
+			<Option target="CPPDemos"/>
+		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.h">
+			<Option target="CPPDemos"/>
+		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp">
+			<Option target="CPPDemos"/>
+		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h">
+			<Option target="CPPDemos"/>
+		</Unit>
 		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp">
 			<Option target="CPPDemos"/>
 		</Unit>

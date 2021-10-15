@@ -6,6 +6,6 @@
 #define MAIN_CPP_TESTCONST_H2
 #include <iostream>
 
-// void test_const_reference2();
+void test_const_reference_demo2();
 
 #endif //MAIN_CPP_TESTCONST_H

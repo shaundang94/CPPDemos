@@ -6,41 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.h
-iostream
--
-
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.h
+/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp
+TestConst.h
+/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h
 
 /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h
 iostream
 -
-
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp
-iostream
--
-二叉树/TestBinaryTree.h
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/二叉树/TestBinaryTree.h
-CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.h
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.h
-CPPPrimer/Chapter 1-Getting Started/InputOneBook.h
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.h
-CPPPrimer/Part I-The Basics/TestConst.h
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h
-
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/二叉树/BTnode.hpp
-stdio.h
--
-
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/二叉树/BinaryTree.hpp
-stdio.h
--
-iostream
--
-
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/二叉树/TestBinaryTree.h
-BinaryTree.hpp
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/二叉树/BinaryTree.hpp
-BTnode.hpp
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/二叉树/BTnode.hpp
 

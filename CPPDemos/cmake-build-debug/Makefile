@@ -142,6 +142,87 @@ CPPDemos/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/build
 .PHONY : CPPDemos/fast
 
+CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.o: CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o
+
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.o
+
+# target to build an object file
+CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o
+
+CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.i: CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i
+
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.i
+
+# target to preprocess a source file
+CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i
+
+CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.s: CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s
+
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.s
+
+# target to generate assembly for a file
+CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s
+
+CPPPrimer/Chapter_1-Getting_Started/InputOneBook.o: CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o
+
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/InputOneBook.o
+
+# target to build an object file
+CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o
+
+CPPPrimer/Chapter_1-Getting_Started/InputOneBook.i: CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i
+
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/InputOneBook.i
+
+# target to preprocess a source file
+CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i
+
+CPPPrimer/Chapter_1-Getting_Started/InputOneBook.s: CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s
+
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/InputOneBook.s
+
+# target to generate assembly for a file
+CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s
+.PHONY : CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s
+
+CPPPrimer/Part_I-The_Basics/TestConst.o: CPPPrimer/Part_I-The_Basics/TestConst.cpp.o
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestConst.o
+
+# target to build an object file
+CPPPrimer/Part_I-The_Basics/TestConst.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o
+.PHONY : CPPPrimer/Part_I-The_Basics/TestConst.cpp.o
+
+CPPPrimer/Part_I-The_Basics/TestConst.i: CPPPrimer/Part_I-The_Basics/TestConst.cpp.i
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestConst.i
+
+# target to preprocess a source file
+CPPPrimer/Part_I-The_Basics/TestConst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.i
+.PHONY : CPPPrimer/Part_I-The_Basics/TestConst.cpp.i
+
+CPPPrimer/Part_I-The_Basics/TestConst.s: CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestConst.s
+
+# target to generate assembly for a file
+CPPPrimer/Part_I-The_Basics/TestConst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
+.PHONY : CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -178,6 +259,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPDemos"
+	@echo "... CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.o"
+	@echo "... CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.i"
+	@echo "... CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.s"
+	@echo "... CPPPrimer/Chapter_1-Getting_Started/InputOneBook.o"
+	@echo "... CPPPrimer/Chapter_1-Getting_Started/InputOneBook.i"
+	@echo "... CPPPrimer/Chapter_1-Getting_Started/InputOneBook.s"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestConst.o"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestConst.i"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestConst.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

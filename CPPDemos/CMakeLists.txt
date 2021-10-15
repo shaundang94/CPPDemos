@@ -3,4 +3,10 @@ project(CPPDemos)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CPPDemos main.cpp)
+add_executable(CPPDemos main.cpp
+        "CPPPrimer/Chapter 1-Getting Started/InputOneBook.h"
+        "CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp"
+        "CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.h"
+        "CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp"
+        "CPPPrimer/Part I-The Basics/TestConst.h"
+        "CPPPrimer/Part I-The Basics/TestConst.cpp")

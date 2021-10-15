@@ -93,12 +93,12 @@ clean: CMakeFiles/CPPDemos.dir/clean
 CMakeFiles/CPPDemos.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CPPDemos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target CPPDemos"
 .PHONY : CMakeFiles/CPPDemos.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CPPDemos.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CPPDemos.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CPPDemos.dir/rule
