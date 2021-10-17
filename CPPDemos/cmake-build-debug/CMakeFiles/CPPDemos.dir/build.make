@@ -79,15 +79,15 @@ include CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/main.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPDemos.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/main.cpp.o -c /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/main.cpp.o -c /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp
 
 CMakeFiles/CPPDemos.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp > CMakeFiles/CPPDemos.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp > CMakeFiles/CPPDemos.dir/main.cpp.i
 
 CMakeFiles/CPPDemos.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp -o CMakeFiles/CPPDemos.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp -o CMakeFiles/CPPDemos.dir/main.cpp.s
 
 # Object files for target CPPDemos
 CPPDemos_OBJECTS = \
