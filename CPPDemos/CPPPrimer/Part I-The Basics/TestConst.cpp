@@ -56,5 +56,6 @@ void test_const_demo3() {
     const pstring  *ps; // ps是个指针，所指对象时「指向char的常量指针」，等价于楼下
     char * const *same_to_ps = &cstr;
 
-    auto i;
+    auto iii = i; // iii是变量，类型自动推断为int
+    auto& ref_i = i; // ref_i是引用，类型自动推断为int&
 }

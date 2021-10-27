@@ -98,6 +98,12 @@
 		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h">
 			<Option target="CPPDemos"/>
 		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestString.cpp">
+			<Option target="CPPDemos"/>
+		</Unit>
+		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestString.h">
+			<Option target="CPPDemos"/>
+		</Unit>
 		<Unit filename="/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp">
 			<Option target="CPPDemos"/>
 		</Unit>
