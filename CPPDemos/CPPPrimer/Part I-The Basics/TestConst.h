@@ -8,4 +8,6 @@
 
 void test_const_reference_demo2();
 
+void test_const_demo3();
+
 #endif //MAIN_CPP_TESTCONST_H
