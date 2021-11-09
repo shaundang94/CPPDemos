@@ -11,12 +11,12 @@ CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o: 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestConst.cpp
 CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestConst.h
 
-CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestStringVectorArray.cpp
-CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestStringVectorArray.h
+CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestString.cpp
+CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestString.h
 
 CMakeFiles/CPPDemos.dir/main.cpp.o: ../CPPPrimer/Chapter\ 1-Getting\ Started/EatchNumberInTheRange.h
 CMakeFiles/CPPDemos.dir/main.cpp.o: ../CPPPrimer/Chapter\ 1-Getting\ Started/InputOneBook.h
 CMakeFiles/CPPDemos.dir/main.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestConst.h
-CMakeFiles/CPPDemos.dir/main.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestStringVectorArray.h
+CMakeFiles/CPPDemos.dir/main.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestString.h
 CMakeFiles/CPPDemos.dir/main.cpp.o: ../main.cpp
 

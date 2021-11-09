@@ -249,6 +249,32 @@ CPPPrimer/Part_I-The_Basics/TestStringVectorArray.s: CPPPrimer/Part_I-The_Basics
 CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s
 .PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s
+CPPPrimer/Part_I-The_Basics/TestString.o: CPPPrimer/Part_I-The_Basics/TestString.cpp.o
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestString.o
+
+# target to build an object file
+CPPPrimer/Part_I-The_Basics/TestString.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o
+.PHONY : CPPPrimer/Part_I-The_Basics/TestString.cpp.o
+
+CPPPrimer/Part_I-The_Basics/TestString.i: CPPPrimer/Part_I-The_Basics/TestString.cpp.i
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestString.i
+
+# target to preprocess a source file
+CPPPrimer/Part_I-The_Basics/TestString.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.i
+.PHONY : CPPPrimer/Part_I-The_Basics/TestString.cpp.i
+
+CPPPrimer/Part_I-The_Basics/TestString.s: CPPPrimer/Part_I-The_Basics/TestString.cpp.s
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestString.s
+
+# target to generate assembly for a file
+CPPPrimer/Part_I-The_Basics/TestString.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.s
+.PHONY : CPPPrimer/Part_I-The_Basics/TestString.cpp.s
 
 main.o: main.cpp.o
 
@@ -298,6 +324,9 @@ help:
 	@echo "... CPPPrimer/Part_I-The_Basics/TestStringVectorArray.o"
 	@echo "... CPPPrimer/Part_I-The_Basics/TestStringVectorArray.i"
 	@echo "... CPPPrimer/Part_I-The_Basics/TestStringVectorArray.s"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestString.o"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestString.i"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestString.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -40,3 +40,22 @@ void test_const_reference_demo2() {
     //*const_double_ptr = 007; // ❌
 
 }
+
+void test_const_demo3() {
+    int i = 0;
+    int * const p1 = &i;
+    const int ci = 42;
+    const int *p2 = &ci;
+    const int * const p3 = p2;
+    const int &r = ci;
+//    int *p = p3;
+
+    typedef char *pstring; // char* 指针
+    const pstring cstr = 0; // const 修饰的是指针，所以cstr是指向char的常量指针，等价于楼下
+    char * const same_to_cstr = cstr;
+    const pstring  *ps; // ps是个指针，所指对象时「指向char的常量指针」，等价于楼下
+    char * const *same_to_ps = &cstr;
+
+    auto iii = i; // iii是变量，类型自动推断为int
+    auto& ref_i = i; // ref_i是引用，类型自动推断为int&
+}

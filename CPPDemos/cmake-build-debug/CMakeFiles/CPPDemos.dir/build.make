@@ -79,67 +79,67 @@ include CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/main.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPDemos.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/main.cpp.o -c /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/main.cpp.o -c /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp
 
 CMakeFiles/CPPDemos.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp > CMakeFiles/CPPDemos.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp > CMakeFiles/CPPDemos.dir/main.cpp.i
 
 CMakeFiles/CPPDemos.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp -o CMakeFiles/CPPDemos.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/main.cpp -o CMakeFiles/CPPDemos.dir/main.cpp.s
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o: ../CPPPrimer/Chapter\ 1-Getting\ Started/InputOneBook.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp"
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.i
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/InputOneBook.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.s
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o: ../CPPPrimer/Chapter\ 1-Getting\ Started/EatchNumberInTheRange.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp"
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.i
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Chapter 1-Getting Started/EatchNumberInTheRange.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.s
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
 CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestConst.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp"
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.i
 
 CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
 
-CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
-CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestStringVectorArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestStringVectorArray.cpp"
+CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o: CMakeFiles/CPPDemos.dir/flags.make
+CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o: ../CPPPrimer/Part\ I-The\ Basics/TestString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o -c "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestString.cpp"
 
-CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestStringVectorArray.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i
+CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestString.cpp" > CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.i
 
-CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestStringVectorArray.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s
+CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestString.cpp" -o CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.s
 
 # Object files for target CPPDemos
 CPPDemos_OBJECTS = \
@@ -147,7 +147,7 @@ CPPDemos_OBJECTS = \
 "CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o" \
 "CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o" \
 "CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o" \
-"CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o"
+"CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o"
 
 # External object files for target CPPDemos
 CPPDemos_EXTERNAL_OBJECTS =
@@ -156,7 +156,7 @@ CPPDemos: CMakeFiles/CPPDemos.dir/main.cpp.o
 CPPDemos: CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/InputOneBook.cpp.o
 CPPDemos: CMakeFiles/CPPDemos.dir/CPPPrimer/Chapter_1-Getting_Started/EatchNumberInTheRange.cpp.o
 CPPDemos: CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.o
-CPPDemos: CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o
+CPPDemos: CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestString.cpp.o
 CPPDemos: CMakeFiles/CPPDemos.dir/build.make
 CPPDemos: CMakeFiles/CPPDemos.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CPPDemos"
