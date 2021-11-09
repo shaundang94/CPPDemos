@@ -223,6 +223,33 @@ CPPPrimer/Part_I-The_Basics/TestConst.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
 .PHONY : CPPPrimer/Part_I-The_Basics/TestConst.cpp.s
 
+CPPPrimer/Part_I-The_Basics/TestStringVectorArray.o: CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.o
+
+# target to build an object file
+CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o
+.PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.o
+
+CPPPrimer/Part_I-The_Basics/TestStringVectorArray.i: CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.i
+
+# target to preprocess a source file
+CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i
+.PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.i
+
+CPPPrimer/Part_I-The_Basics/TestStringVectorArray.s: CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s
+
+.PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.s
+
+# target to generate assembly for a file
+CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPPDemos.dir/build.make CMakeFiles/CPPDemos.dir/CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s
+.PHONY : CPPPrimer/Part_I-The_Basics/TestStringVectorArray.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -268,6 +295,9 @@ help:
 	@echo "... CPPPrimer/Part_I-The_Basics/TestConst.o"
 	@echo "... CPPPrimer/Part_I-The_Basics/TestConst.i"
 	@echo "... CPPPrimer/Part_I-The_Basics/TestConst.s"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestStringVectorArray.o"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestStringVectorArray.i"
+	@echo "... CPPPrimer/Part_I-The_Basics/TestStringVectorArray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

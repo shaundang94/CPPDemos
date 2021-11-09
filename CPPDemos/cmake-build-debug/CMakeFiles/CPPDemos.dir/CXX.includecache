@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.cpp
-TestConst.h
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h
-
-/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestConst.h
+/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestStringVectorArray.cpp
+TestStringVectorArray.h
+/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestStringVectorArray.h
+string
+-
 iostream
 -
+vector
+-
+
+/Users/apple/Documents/Code/C++Code/CPPDemos/CPPDemos/CPPPrimer/Part I-The Basics/TestStringVectorArray.h
 
