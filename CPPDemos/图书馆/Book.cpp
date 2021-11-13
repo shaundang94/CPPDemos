@@ -10,7 +10,7 @@ Book::Book(const string &title, const string &auther): _title(title), _auther(au
 }
 
 Book::Book(): LibMat() {
-
+    cout << "Book::Book(); " << getMyClass() << endl;
 }
 
 Book::~Book() {

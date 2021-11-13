@@ -17,6 +17,8 @@ public:
     virtual std::string getMyClass() const;
 
     const string& narator() const;
+
+    string publishedDate{"2021年11月12日12:57:48"};
 protected:
     string _narator; //演播者
 };

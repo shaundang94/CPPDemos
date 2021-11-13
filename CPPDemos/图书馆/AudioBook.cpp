@@ -7,16 +7,18 @@
 
 using namespace std;
 
-AudioBook::AudioBook(const string &title,const string &auther, const string &narator)
+AudioBook::AudioBook(const string &title,
+                     const string &auther,
+                     const string &narator)
                      : Book(title, auther), _narator(narator) {
     cout << "AudioBook::AudioBook(" << _title << ", " << _auther << ", " << _narator << ")" << endl;
 }
 
 AudioBook::AudioBook(): Book() {
-
+    cout << "AudioBook::AudioBook(); " << getMyClass() << endl;
 }
 
-AudioBook::~AudioBook() noexcept {
+AudioBook::~AudioBook() {
     cout << "AudioBook::~AudioBook()" << endl;
 }
 
