@@ -18,4 +18,4 @@ add_executable(CPPDemos main.cpp
         "图书馆/AudioBook.h" "图书馆/AudioBook.cpp"
         "图书馆/Book.h" "图书馆/Book.cpp"
         "图书馆/LibMat.h" "图书馆/LibMat.cpp"
-        )
+        "CPPPrimer/Part I-The Basics/TestCast.cpp" "CPPPrimer/Part I-The Basics/TestCast.h" "CPPPrimer/Part I-The Basics/TestFunctions.cpp" "CPPPrimer/Part I-The Basics/TestFunctions.h" "CPPPrimer/Part I-The Basics/Screen.cpp" "CPPPrimer/Part I-The Basics/Screen.h")

@@ -9,6 +9,7 @@
 class TestBooks {
 public:
     void test_books_demo();
+    float price{0.01};
 };
 
 
